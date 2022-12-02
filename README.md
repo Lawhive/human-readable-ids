@@ -1,6 +1,6 @@
 # Polite human readable ids
 
-Modified for unleash to get rid of impolite adjectives. Format of `color-noun-#`
+Modified for Lawhive to get rid of impolite adjectives. Format of `color-noun-#`
 E.g. use: `blue-goose-37` instead of `silly-goose-37`
 
 There are 162 colors in dictionary which should give 1,620,000 combinations.
