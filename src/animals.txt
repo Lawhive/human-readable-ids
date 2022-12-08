@@ -16,7 +16,6 @@ cheetah
 chicken
 chipmunk
 cobra
-cougar
 crab
 deer
 dodo
