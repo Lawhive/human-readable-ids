@@ -6,8 +6,6 @@ beetle
 bird
 bobcat
 buffalo
-bulldog
-bullfrog
 bumblebee
 camel
 cat
@@ -18,7 +16,6 @@ chipmunk
 cobra
 crab
 deer
-dodo
 dog
 dolphin
 donkey
@@ -29,8 +26,6 @@ eagle
 elephant
 emu
 falcon
-fireant
-firefox
 fish
 fly
 fox
@@ -50,13 +45,11 @@ ladybug
 leopard
 liger
 lion
-lionfish
 lizard
 mayfly
 moose
 moth
 mouse
-mule
 newt
 octopus
 otter
@@ -69,10 +62,8 @@ penguin
 puma
 quail
 rabbit
-rat
 robin
 seahorse
-sheep
 shrimp
 sloth
 snail
@@ -81,11 +72,9 @@ starfish
 stingray
 swan
 tiger
-treefrog
 turkey
 turtle
 tuna
-vampirebat
 walrus
 whale
 wasp
