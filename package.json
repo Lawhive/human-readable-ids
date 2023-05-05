@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Generate human-readable ids from lists of easy-to-spell nouns and adjectives",
   "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "knuth-shuffle": "^1.0.0"
   },
