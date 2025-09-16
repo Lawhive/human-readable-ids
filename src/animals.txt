@@ -36,7 +36,6 @@ goose
 grasshopper
 horse
 hound
-husky
 impala
 insect
 jellyfish

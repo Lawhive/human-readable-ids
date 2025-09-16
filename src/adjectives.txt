@@ -16,7 +16,6 @@ bondi-blue
 brass
 bronze
 brown
-buff
 burgundy
 camouflage
 cardinal
