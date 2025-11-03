@@ -29,7 +29,6 @@ coat
 coin
 collar
 comb
-cow
 cup
 curtain
 cushion
